@@ -1,0 +1,48 @@
+.introduction {
+    background-color: blanchedalmond;
+    width: 200px;
+    height: 500px;
+    position: relative;
+}
+
+.introduction2 {
+    background-color: blanchedalmond;
+    width: 200px;
+    height: 450px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+}
+
+.introduction3 {
+    background-color: blanchedalmond;
+    width: 200px;
+    height: 500px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+    opacity: 0.5;
+}
+
+.introduction4 {
+    background-color: blanchedalmond;
+    width: 200px;
+    height: 500px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+    
+}
+
+.icons1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
